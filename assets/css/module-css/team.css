@@ -463,6 +463,7 @@
 
 .team-two__img img {
     width: 100%;
+    height: 420px;
     border-radius: 20px;
     transform: scale(1.0);
     transition: all 1500ms ease;
